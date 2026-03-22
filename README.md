@@ -31,6 +31,7 @@ Tkinter (GUI)
 Pillow (Image Processing)
 PyMySQL (Database Connectivity)
 MySQL
+
 🗂️ Database Structure
 1. donor Table
 Field	Type
@@ -38,6 +39,7 @@ id	INT (Primary Key)
 name	VARCHAR
 age	INT
 organ	VARCHAR
+
 2. user_details Table
 Field	Type
 id	INT (Primary Key)
@@ -50,6 +52,7 @@ disability	VARCHAR
 habit	VARCHAR
 health_issues	VARCHAR
 operations	VARCHAR
+
 ⚙️ Installation & Setup
 Clone the repository:
 git clone https://github.com/your-username/organ-donation-system.git
@@ -69,19 +72,13 @@ Login Page
 Organ Image Display
 User Details Form
 
-(Add screenshots here for better presentation)
-
 🔮 Future Enhancements
 🔐 Secure login with database authentication
 📊 Admin dashboard to view donors
 📁 Export data to PDF/Excel
 🌐 Web-based version using Django/Flask
 📱 Mobile app integration
-👨‍💻 Author
-
-Abi
-Passionate Python Developer 🚀
-
+👨‍💻 Author : Pradeepa
 ⭐ Support
 
 If you like this project:
